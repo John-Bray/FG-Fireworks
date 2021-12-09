@@ -1,0 +1,91 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <version type="int">2</version>
+  <departure>
+    <airport type="string">EGOD</airport>
+    <runway type="string">35</runway>
+  </departure>
+  <destination>
+    <airport type="string">EGLC</airport>
+    <runway type="string">27</runway>
+  </destination>
+  <route>
+    <wp>
+      <type type="string">runway</type>
+      <departure type="bool">true</departure>
+      <ident type="string">35</ident>
+      <icao type="string">EGOD</icao>
+    </wp>
+    <wp n="1">
+      <type type="string">navaid</type>
+      <ident type="string">EGVA</ident>
+      <lon type="double">-1.789999515</lon>
+      <lat type="double">51.6835</lat>
+    </wp>
+
+<wp n="2"><type type="string">basic</type><ident type="string">m02</ident><lat type="double">51.66324384</lat><lon type="double">-1.751556458</lon></wp>
+<wp n="3"><type type="string">basic</type><ident type="string">m03</ident><lat type="double">51.67967716</lat><lon type="double">-1.708274877</lon></wp>
+<wp n="4"><type type="string">basic</type><ident type="string">m04</ident><lat type="double">51.68242311</lat><lon type="double">-1.662247762</lon></wp>
+<wp n="5"><type type="string">basic</type><ident type="string">m05</ident><lat type="double">51.68889161</lat><lon type="double">-1.611722645</lon></wp>
+<wp n="6"><type type="string">basic</type><ident type="string">m06</ident><lat type="double">51.69969325</lat><lon type="double">-1.555640263</lon></wp>
+<wp n="7"><type type="string">basic</type><ident type="string">m07</ident><lat type="double">51.69735175</lat><lon type="double">-1.498677610</lon></wp>
+<wp n="8"><type type="string">basic</type><ident type="string">m08</ident><lat type="double">51.71114831</lat><lon type="double">-1.448123082</lon></wp>
+<wp n="9"><type type="string">basic</type><ident type="string">m09</ident><lat type="double">51.70775181</lat><lon type="double">-1.389881562</lon></wp>
+<wp n="10"><type type="string">basic</type><ident type="string">m10</ident><lat type="double">51.73823135</lat><lon type="double">-1.371307421</lon></wp>
+<wp n="11"><type type="string">basic</type><ident type="string">m11</ident><lat type="double">51.77298732</lat><lon type="double">-1.359697322</lon></wp>
+<wp n="12"><type type="string">basic</type><ident type="string">m12</ident><lat type="double">51.78819414</lat><lon type="double">-1.309237402</lon></wp>
+<wp n="13"><type type="string">basic</type><ident type="string">m13</ident><lat type="double">51.75807393</lat><lon type="double">-1.274470113</lon></wp>
+<wp n="14"><type type="string">basic</type><ident type="string">m14</ident><lat type="double">51.73061286</lat><lon type="double">-1.243241565</lon></wp>
+<wp n="15"><type type="string">basic</type><ident type="string">m15</ident><lat type="double">51.69515971</lat><lon type="double">-1.227434366</lon></wp>
+<wp n="16"><type type="string">basic</type><ident type="string">m16</ident><lat type="double">51.66710136</lat><lon type="double">-1.248604107</lon></wp>
+<wp n="17"><type type="string">basic</type><ident type="string">m17</ident><lat type="double">51.66710136</lat><lon type="double">-1.248604107</lon></wp>
+<wp n="18"><type type="string">basic</type><ident type="string">m18</ident><lat type="double">51.64260051</lat><lon type="double">-1.237551556</lon></wp>
+<wp n="19"><type type="string">basic</type><ident type="string">m19</ident><lat type="double">51.65821512</lat><lon type="double">-1.199786360</lon></wp>
+<wp n="20"><type type="string">basic</type><ident type="string">m20</ident><lat type="double">51.63479447</lat><lon type="double">-1.172049831</lon></wp>
+<wp n="21"><type type="string">basic</type><ident type="string">m21</ident><lat type="double">51.62082385</lat><lon type="double">-1.122293372</lon></wp>
+<wp n="22"><type type="string">basic</type><ident type="string">m22</ident><lat type="double">51.58641555</lat><lon type="double">-1.124879979</lon></wp>
+<wp n="23"><type type="string">basic</type><ident type="string">m23</ident><lat type="double">51.55346709</lat><lon type="double">-1.144908925</lon></wp>
+<wp n="24"><type type="string">basic</type><ident type="string">m24</ident><lat type="double">51.51924999</lat><lon type="double">-1.142356920</lon></wp>
+<wp n="25"><type type="string">basic</type><ident type="string">m25</ident><lat type="double">51.49622022</lat><lon type="double">-1.105442110</lon></wp>
+<wp n="26"><type type="string">basic</type><ident type="string">m26</ident><lat type="double">51.49079139</lat><lon type="double">-1.056686898</lon></wp>
+<wp n="27"><type type="string">basic</type><ident type="string">m27</ident><lat type="double">51.46768495</lat><lon type="double">-1.018896961</lon></wp>
+<wp n="28"><type type="string">basic</type><ident type="string">m28</ident><lat type="double">51.46084633</lat><lon type="double">-0.9656103784</lon></wp>
+<wp n="29"><type type="string">basic</type><ident type="string">m29</ident><lat type="double">51.47545705</lat><lon type="double">-0.9138484146</lon></wp>
+<wp n="30"><type type="string">basic</type><ident type="string">m30</ident><lat type="double">51.49898583</lat><lon type="double">-0.8806919794</lon></wp>
+<wp n="31"><type type="string">basic</type><ident type="string">m31</ident><lat type="double">51.52820464</lat><lon type="double">-0.8853712832</lon></wp>
+<wp n="32"><type type="string">basic</type><ident type="string">m32</ident><lat type="double">51.55859189</lat><lon type="double">-0.887051808</lon></wp>
+<wp n="33"><type type="string">basic</type><ident type="string">m33</ident><lat type="double">51.54581523</lat><lon type="double">-0.8408736008</lon></wp>
+<wp n="34"><type type="string">basic</type><ident type="string">m34</ident><lat type="double">51.55449693</lat><lon type="double">-0.785820691</lon></wp>
+<wp n="35"><type type="string">basic</type><ident type="string">m35</ident><lat type="double">51.57139402</lat><lon type="double">-0.7425171695</lon></wp>
+<wp n="36"><type type="string">basic</type><ident type="string">m36</ident><lat type="double">51.56152345</lat><lon type="double">-0.7020274872</lon></wp>
+<wp n="37"><type type="string">basic</type><ident type="string">m37</ident><lat type="double">51.52802312</lat><lon type="double">-0.700842643</lon></wp>
+<wp n="38"><type type="string">basic</type><ident type="string">m38</ident><lat type="double">51.49893778</lat><lon type="double">-0.6811084468</lon></wp>
+<wp n="39"><type type="string">basic</type><ident type="string">m39</ident><lat type="double">51.49178051</lat><lon type="double">-0.6323461956</lon></wp>
+<wp n="40"><type type="string">basic</type><ident type="string">m40</ident><lat type="double">51.4830485</lat><lon type="double">-0.5854064198</lon></wp>
+<wp n="41"><type type="string">basic</type><ident type="string">m41</ident><lat type="double">51.45018897</lat><lon type="double">-0.5688527291</lon></wp>
+<wp n="42"><type type="string">basic</type><ident type="string">m42</ident><lat type="double">51.43289762</lat><lon type="double">-0.5180491724</lon></wp>
+<wp n="43"><type type="string">basic</type><ident type="string">m43</ident><lat type="double">51.40574751</lat><lon type="double">-0.4909490236</lon></wp>
+<wp n="44"><type type="string">basic</type><ident type="string">m44</ident><lat type="double">51.37910789</lat><lon type="double">-0.4606832818</lon></wp>
+<wp n="45"><type type="string">basic</type><ident type="string">m45</ident><lat type="double">51.39497034</lat><lon type="double">-0.4181276535</lon></wp>
+<wp n="46"><type type="string">basic</type><ident type="string">m46</ident><lat type="double">51.40990046</lat><lon type="double">-0.3705511472</lon></wp>
+<wp n="47"><type type="string">basic</type><ident type="string">m47</ident><lat type="double">51.39186346</lat><lon type="double">-0.3256808021</lon></wp>
+<wp n="48"><type type="string">basic</type><ident type="string">m48</ident><lat type="double">51.42242647</lat><lon type="double">-0.3072869626</lon></wp>
+<wp n="49"><type type="string">basic</type><ident type="string">m49</ident><lat type="double">51.44671323</lat><lon type="double">-0.3156475536</lon></wp>
+<wp n="50"><type type="string">basic</type><ident type="string">m50</ident><lat type="double">51.4735469</lat><lon type="double">-0.3117814817</lon></wp>
+<wp n="51"><type type="string">basic</type><ident type="string">m51</ident><lat type="double">51.47457133</lat><lon type="double">-0.2715783211</lon></wp>
+<wp n="52"><type type="string">basic</type><ident type="string">m52</ident><lat type="double">51.48780392</lat><lon type="double">-0.2314498459</lon></wp>
+<wp n="53"><type type="string">basic</type><ident type="string">m53</ident><lat type="double">51.46424478</lat><lon type="double">-0.1942790632</lon></wp>
+<wp n="54"><type type="string">basic</type><ident type="string">m54</ident><lat type="double">51.48365465</lat><lon type="double">-0.1514505244</lon></wp>
+<wp n="55"><type type="string">basic</type><ident type="string">m55</ident><lat type="double">51.49757757</lat><lon type="double">-0.1245324829</lon></wp>
+
+
+    
+    <wp n="56">
+      <type type="string">runway</type>
+      <approach type="bool">true</approach>
+      <ident type="string">27</ident>
+      <icao type="string">EGLC</icao>
+    </wp>
+  </route>
+</PropertyList>

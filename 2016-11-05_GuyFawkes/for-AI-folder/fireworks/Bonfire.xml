@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<PropertyList>
+
+
+
+<particlesystem>
+  <name>flame</name>	<!-- The name of the particle system (so it can be
+                                     referenced by normal animations) -->
+  
+  <texture>oilrig09_flame2000.png</texture>
+  <emissive>true</emissive>
+  <lighting>false</lighting>
+       
+  <offsets>
+    <x-m>0</x-m>
+    <y-m>0</y-m>
+    <z-m>-1.5</z-m>
+        <pitch-deg>20</pitch-deg>
+  </offsets>
+           
+  <attach>local</attach>
+           
+  <placer>
+    <type>point</type>
+  </placer>
+           
+  <shooter>
+    <speed-mps>
+    	<value>1</value>
+	<spread>0.5</spread>
+    </speed-mps>
+  </shooter>
+       
+  <counter>
+    <particles-per-sec>
+      <value>3</value>
+      <spread>2</spread>
+    </particles-per-sec>
+  </counter>
+           
+  <align>billboard</align>
+           
+  <particle>
+
+  <start>
+    <color>
+      <red><value>1</value></red>
+      <green><value>1</value></green>
+      <blue><value>1</value></blue>
+      <alpha><value>1</value></alpha>
+    </color>
+    <size>
+      <value>0.5</value>
+    </size>
+  </start>
+
+  <end>
+    <color>
+      <red><value>0.8</value></red>
+      <green><value>0.2</value></green>
+      <blue><value>0.1</value></blue>
+      <alpha><value>0.0</value></alpha>
+    </color>
+    <size>
+      <value>40</value>
+      <spread>5</spread>
+    </size>
+  </end>
+    
+  <life-sec>
+    <value>3</value>
+  </life-sec>
+
+  <mass-kg>200</mass-kg>
+  <radius-m>10</radius-m>
+  </particle>
+           
+  <program>
+    <fluid>air</fluid>
+    <gravity>true</gravity>
+    <wind>true</wind>
+  </program>
+           
+</particlesystem>
+
+<animation>
+  <type>rotate</type>
+  <object-name>flame</object-name>
+  <property>/sim/time/elapsed-sec</property>
+  <factor>26.0</factor>
+  <center>
+   <x-m>0</x-m>
+   <y-m>0</y-m>
+   <z-m>0</z-m>
+  </center>
+  <axis>
+   <x>0</x>
+   <y>0</y>
+   <z>1</z>
+  </axis>
+ </animation>
+ 
+    <animation>
+	  <type>range</type>
+	  <min-m>0</min-m>
+	  <max-m>10000</max-m>
+    </animation>
+
+</PropertyList>

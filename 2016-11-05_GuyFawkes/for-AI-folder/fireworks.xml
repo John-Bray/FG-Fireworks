@@ -1,0 +1,198 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<scenario>
+  <name>fireworks</name>
+  <description>For the FGUK FlightNight on Saturday 5th November 2016</description>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.678</latitude><longitude type="double">-1.808</longitude>     <altitude type="double">250</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.678</latitude><longitude type="double">-1.808</longitude>     <altitude type="double">250</altitude><heading type="double">0</heading></entry>
+	
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.66324384	</latitude><longitude type="double">-1.751556458</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.67967716	</latitude><longitude type="double">-1.708274877</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.68242311	</latitude><longitude type="double">-1.662247762</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.68889161	</latitude><longitude type="double">-1.611722645</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.69969325	</latitude><longitude type="double">-1.555640263</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.69735175	</latitude><longitude type="double">-1.498677610</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.71114831	</latitude><longitude type="double">-1.448123082</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.70775181	</latitude><longitude type="double">-1.389881562</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.73823135	</latitude><longitude type="double">-1.371307421</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.77298732	</latitude><longitude type="double">-1.359697322</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.78819414	</latitude><longitude type="double">-1.309237402</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.75807393	</latitude><longitude type="double">-1.274470113</longitude>     <altitude type="double">190</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.73061286	</latitude><longitude type="double">-1.243241565</longitude>     <altitude type="double">180</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.69515971	</latitude><longitude type="double">-1.227434366</longitude>     <altitude type="double">170</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.66710136	</latitude><longitude type="double">-1.248604107</longitude>     <altitude type="double">170</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.66710136	</latitude><longitude type="double">-1.248604107</longitude>     <altitude type="double">160</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.64260051	</latitude><longitude type="double">-1.237551556</longitude>     <altitude type="double">160</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.65821512	</latitude><longitude type="double">-1.199786360</longitude>     <altitude type="double">150</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.63479447	</latitude><longitude type="double">-1.172049831</longitude>     <altitude type="double">150</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.62082385	</latitude><longitude type="double">-1.122293372</longitude>     <altitude type="double">150</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.58641555	</latitude><longitude type="double">-1.124879979</longitude>     <altitude type="double">150</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.55346709	</latitude><longitude type="double">-1.144908925</longitude>     <altitude type="double">140</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.51924999	</latitude><longitude type="double">-1.142356920</longitude>     <altitude type="double">140</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.49622022	</latitude><longitude type="double">-1.105442110</longitude>     <altitude type="double">140</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.49079139	</latitude><longitude type="double">-1.056686898</longitude>     <altitude type="double">130</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.46768495	</latitude><longitude type="double">-1.018896961</longitude>     <altitude type="double">130</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.46084633	</latitude><longitude type="double">-0.9656103784</longitude>     <altitude type="double">120</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.47545705	</latitude><longitude type="double">-0.9138484146</longitude>     <altitude type="double">120</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.49898583	</latitude><longitude type="double">-0.8806919794</longitude>     <altitude type="double">110</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.52820464	</latitude><longitude type="double">-0.8853712832</longitude>     <altitude type="double">110</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.55859189	</latitude><longitude type="double">-0.887051808</longitude>     <altitude type="double">110</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.54581523	</latitude><longitude type="double">-0.8408736008</longitude>     <altitude type="double">100</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.55449693	</latitude><longitude type="double">-0.785820691</longitude>     <altitude type="double">90</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.57139402	</latitude><longitude type="double">-0.7425171695</longitude>     <altitude type="double">90</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.56152345	</latitude><longitude type="double">-0.7020274872</longitude>     <altitude type="double">90</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.52802312	</latitude><longitude type="double">-0.700842643</longitude>     <altitude type="double">80</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.49893778	</latitude><longitude type="double">-0.6811084468</longitude>     <altitude type="double">70</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.49178051	</latitude><longitude type="double">-0.6323461956</longitude>     <altitude type="double">70</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.4830485	</latitude><longitude type="double">-0.5854064198</longitude>     <altitude type="double">70</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.45018897	</latitude><longitude type="double">-0.5688527291</longitude>     <altitude type="double">70</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.43289762	</latitude><longitude type="double">-0.5180491724</longitude>     <altitude type="double">60</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.40574751	</latitude><longitude type="double">-0.4909490236</longitude>     <altitude type="double">50</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.37910789	</latitude><longitude type="double">-0.4606832818</longitude>     <altitude type="double">50</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.39497034	</latitude><longitude type="double">-0.4181276535</longitude>     <altitude type="double">40</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.40990046	</latitude><longitude type="double">-0.3705511472</longitude>     <altitude type="double">30</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.39186346	</latitude><longitude type="double">-0.3256808021</longitude>     <altitude type="double">20</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.42242647	</latitude><longitude type="double">-0.3072869626</longitude>     <altitude type="double">20</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.44671323	</latitude><longitude type="double">-0.3156475536</longitude>     <altitude type="double">20</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.4735469	</latitude><longitude type="double">-0.3117814817</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.47457133	</latitude><longitude type="double">-0.2715783211</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Flare.xml</model><latitude type="double">51.48780392	</latitude><longitude type="double">-0.2314498459</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Bonfire.xml</model><latitude type="double">51.46424478	</latitude><longitude type="double">-0.1942790632</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.48365465	</latitude><longitude type="double">-0.1514505244</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.66324384	</latitude><longitude type="double">-1.751556458</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.67967716	</latitude><longitude type="double">-1.708274877</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.68242311	</latitude><longitude type="double">-1.662247762</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.68889161	</latitude><longitude type="double">-1.611722645</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.69969325	</latitude><longitude type="double">-1.555640263</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.69735175	</latitude><longitude type="double">-1.498677610</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.71114831	</latitude><longitude type="double">-1.448123082</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.70775181	</latitude><longitude type="double">-1.389881562</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.73823135	</latitude><longitude type="double">-1.371307421</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.77298732	</latitude><longitude type="double">-1.359697322</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.78819414	</latitude><longitude type="double">-1.309237402</longitude>     <altitude type="double">200</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.75807393	</latitude><longitude type="double">-1.274470113</longitude>     <altitude type="double">190</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.73061286	</latitude><longitude type="double">-1.243241565</longitude>     <altitude type="double">180</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.69515971	</latitude><longitude type="double">-1.227434366</longitude>     <altitude type="double">170</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.66710136	</latitude><longitude type="double">-1.248604107</longitude>     <altitude type="double">170</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.66710136	</latitude><longitude type="double">-1.248604107</longitude>     <altitude type="double">160</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.64260051	</latitude><longitude type="double">-1.237551556</longitude>     <altitude type="double">160</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.65821512	</latitude><longitude type="double">-1.199786360</longitude>     <altitude type="double">150</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.63479447	</latitude><longitude type="double">-1.172049831</longitude>     <altitude type="double">150</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.62082385	</latitude><longitude type="double">-1.122293372</longitude>     <altitude type="double">150</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.58641555	</latitude><longitude type="double">-1.124879979</longitude>     <altitude type="double">150</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.55346709	</latitude><longitude type="double">-1.144908925</longitude>     <altitude type="double">140</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.51924999	</latitude><longitude type="double">-1.142356920</longitude>     <altitude type="double">140</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.49622022	</latitude><longitude type="double">-1.105442110</longitude>     <altitude type="double">140</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.49079139	</latitude><longitude type="double">-1.056686898</longitude>     <altitude type="double">130</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.46768495	</latitude><longitude type="double">-1.018896961</longitude>     <altitude type="double">130</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.46084633	</latitude><longitude type="double">-0.9656103784</longitude>     <altitude type="double">120</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.47545705	</latitude><longitude type="double">-0.9138484146</longitude>     <altitude type="double">120</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.49898583	</latitude><longitude type="double">-0.8806919794</longitude>     <altitude type="double">110</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.52820464	</latitude><longitude type="double">-0.8853712832</longitude>     <altitude type="double">110</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.55859189	</latitude><longitude type="double">-0.887051808</longitude>     <altitude type="double">110</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.54581523	</latitude><longitude type="double">-0.8408736008</longitude>     <altitude type="double">100</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.55449693	</latitude><longitude type="double">-0.785820691</longitude>     <altitude type="double">90</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.57139402	</latitude><longitude type="double">-0.7425171695</longitude>     <altitude type="double">90</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.56152345	</latitude><longitude type="double">-0.7020274872</longitude>     <altitude type="double">90</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.52802312	</latitude><longitude type="double">-0.700842643</longitude>     <altitude type="double">80</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.49893778	</latitude><longitude type="double">-0.6811084468</longitude>     <altitude type="double">70</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.49178051	</latitude><longitude type="double">-0.6323461956</longitude>     <altitude type="double">70</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.4830485	</latitude><longitude type="double">-0.5854064198</longitude>     <altitude type="double">70</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.45018897	</latitude><longitude type="double">-0.5688527291</longitude>     <altitude type="double">70</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.43289762	</latitude><longitude type="double">-0.5180491724</longitude>     <altitude type="double">60</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.40574751	</latitude><longitude type="double">-0.4909490236</longitude>     <altitude type="double">50</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.37910789	</latitude><longitude type="double">-0.4606832818</longitude>     <altitude type="double">50</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.39497034	</latitude><longitude type="double">-0.4181276535</longitude>     <altitude type="double">40</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.40990046	</latitude><longitude type="double">-0.3705511472</longitude>     <altitude type="double">30</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.39186346	</latitude><longitude type="double">-0.3256808021</longitude>     <altitude type="double">20</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.42242647	</latitude><longitude type="double">-0.3072869626</longitude>     <altitude type="double">20</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.44671323	</latitude><longitude type="double">-0.3156475536</longitude>     <altitude type="double">20</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.4735469	</latitude><longitude type="double">-0.3117814817</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model><latitude type="double">51.47457133	</latitude><longitude type="double">-0.2715783211</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model><latitude type="double">51.48780392	</latitude><longitude type="double">-0.2314498459</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model><latitude type="double">51.46424478	</latitude><longitude type="double">-0.1942790632</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model><latitude type="double">51.48365465	</latitude><longitude type="double">-0.1514505244</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.49757757	</latitude><longitude type="double">-0.1245325</longitude>     <altitude type="double">90</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model>  <latitude type="double">51.49757757	</latitude><longitude type="double">-0.1245325</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model> <latitude type="double">51.49757757	</latitude><longitude type="double">-0.1245325</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model> <latitude type="double">51.49757757	</latitude><longitude type="double">-0.1245325</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model> <latitude type="double">51.49757757	</latitude><longitude type="double">-0.1245325</longitude>     <altitude type="double">10</altitude><heading type="double">0</heading></entry>
+
+<entry><type>static</type><model type="string">fireworks/Mortars.xml</model><latitude type="double">51.50499961	</latitude><longitude type="double">-0.0194464</longitude>     <altitude type="double">905</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst.xml</model>  <latitude type="double">51.50499961	</latitude><longitude type="double">-0.0194464</longitude>     <altitude type="double">905</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst1.xml</model> <latitude type="double">51.50499961	</latitude><longitude type="double">-0.0194464</longitude>     <altitude type="double">905</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst2.xml</model> <latitude type="double">51.50499961	</latitude><longitude type="double">-0.0194464</longitude>     <altitude type="double">905</altitude><heading type="double">0</heading></entry>
+<entry><type>static</type><model type="string">fireworks/Burst3.xml</model> <latitude type="double">51.50499961	</latitude><longitude type="double">-0.0194464</longitude>     <altitude type="double">905</altitude><heading type="double">0</heading></entry>
+
+<!-- St James Park -->
+  <entry><!--   -->
+    <name>St James Park</name><callsign>St James Park</callsign>
+	  <model type="string">fireworks/helipad_FGUK-fenced.xml</model>
+	    <latitude type="double">51.50153535</latitude>
+	    <longitude type="double">-0.1315157605</longitude>
+	  <altitude type="double">42</altitude>
+	  <heading type="double">270</heading>
+  </entry>
+  
+  
+<!-- Canary Wharf --> 
+  <entry>
+    <name>HSBC</name><callsign>Canary Wharf</callsign>
+	  <model type="string">fireworks/helipad_FGUK-fenced.xml</model>
+	    <latitude type="double">51.50538042</latitude>
+	    <longitude type="double">-0.01740978335</longitude>
+	  <altitude type="double">735</altitude>
+	  <heading type="double">280</heading>
+  </entry>
+      
+      
+  <entry>
+    <name>Barclays</name><callsign>Canary Wharf 2</callsign>
+	  <model type="string">fireworks/helipad_FGUK-fenced.xml</model>
+	    <latitude type="double">51.50524258</latitude>
+	    <longitude type="double">-0.0140705011</longitude>
+	  <altitude type="double">532</altitude>
+	  <heading type="double">280</heading>
+  </entry>
+      
+  <entry>
+    <name>Citi</name><callsign>Canary Wharf 3</callsign>
+	  <model type="string">fireworks/helipad_FGUK-fenced.xml</model>
+	    <!--latitude type="double">51.50399276</latitude-->
+	    <latitude type="double">51.50401</latitude>
+	    <longitude type="double">-0.0178333</longitude>
+	  <altitude type="double">734.5</altitude>
+	  <heading type="double">278</heading>
+  </entry>
+  
+  
+		 	
+	</scenario>
+</PropertyList>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
