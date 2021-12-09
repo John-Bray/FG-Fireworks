@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<PropertyList>
+
+ <path>paratrooper.ac</path>
+
+ <animation>
+  <type>billboard</type>
+  <spherical>false</spherical>
+ </animation>
+ 
+ <animation>
+  <type>pick</type>
+  <object-name>Cube</object-name>
+  <action>
+   <name>click</name>
+   <button>0</button>
+   <repeatable>false</repeatable>
+   <binding>
+   <command>nasal</command>
+   <script>
+    var Squad = 5;
+	var msg = "Squad ALPHA Ready For Evac";
+	gui.popupTip(msg);
+	print("FGUK S.A.R "~Squad~": "~msg);
+	</script>
+   </binding>
+  </action>
+ </animation>
+
+</PropertyList>

@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+
+<PropertyList>
+  <version type="int">2</version>
+  <departure>
+    <airport type="string">W27</airport>
+    <runway type="string">32</runway>
+  </departure>
+  <destination>
+    <airport type="string">WN55</airport>
+    <runway type="string">25</runway>
+  </destination>   
+  <route>
+    <wp><!-- Woodland -->
+      <type type="string">runway</type>
+      <departure type="bool">true</departure>
+      <ident type="string">32</ident>
+      <icao type="string">W27</icao>
+    </wp>
+    <wp n="1"><!-- Mt St Helens Aero Ranch -->
+      <type type="string">navaid</type>
+      <ident type="string">WN10</ident>
+      <lon type="double">-122.379542</lon>
+      <lat type="double">45.99344388</lat>
+    </wp>
+     <wp n="2"><!-- Helipad1 -->
+      <type type="string">basic</type>
+      <ident type="string">Helipad1</ident>
+      <lon type="double">-122.301272</lon>
+      <lat type="double">46.050918</lat>
+    </wp>     
+     <wp n="3"><!-- Road Bend -->
+      <type type="string">basic</type>
+      <ident type="string">road-bend</ident>
+      <lon type="double">-122.2004</lon>
+      <lat type="double">46.0672</lat>
+    </wp>    
+    <wp n="4"><!-- Helipad2 -->
+      <type type="string">basic</type>
+      <ident type="string">Helipad2</ident>
+      <lon type="double">-122.2250</lon>
+      <lat type="double">46.1425</lat>
+    </wp>
+    <wp n="5"><!-- Muddy River -->
+      <type type="string">basic</type>
+      <ident type="string">Muddy River</ident>
+      <lon type="double">-122.102115</lon>
+      <lat type="double">46.167951</lat>
+    </wp>  
+     <wp n="6"><!-- Muddy source -->
+      <type type="string">basic</type>
+      <ident type="string">Muddy source</ident>
+      <lon type="double">-122.17131</lon>
+      <lat type="double">46.19349</lat>
+    </wp>         
+    <wp n="7"><!-- Mt St Helens -->
+      <type type="string">basic</type>
+      <ident type="string">Mountain</ident>
+      <lon type="double">-122.1867</lon>
+      <lat type="double">46.2003</lat>
+    </wp> 
+     <wp n="8"><!-- Lakeside -->
+      <type type="string">basic</type>
+      <ident type="string">Lakeside</ident>
+      <lon type="double">-122.1577</lon>
+      <lat type="double">46.2786</lat>
+    </wp>
+    <wp n="9"><!-- Morton / Strom Field -->
+      <type type="string">navaid</type>
+      <ident type="string">39P</ident>
+      <lon type="double">-122.2664931</lon>
+      <lat type="double">46.55038666</lat>
+    </wp>
+    <wp n="10"><!-- Randle-Kiona Airpark -->
+      <type type="string">runway</type>
+      <approach type="bool">true</approach>
+      <ident type="string">25</ident>
+      <icao type="string">WN55</icao>
+    </wp>
+  </route>
+</PropertyList>

@@ -1,0 +1,29 @@
+AC3Db
+MATERIAL "default" rgb 0.72 0.72 0.72 amb 0.8 0.8 0.8 emis 0.08 0.08 0.08 spec 0.2 0.2 0.2 shi 128 trans 0
+MATERIAL "Lava" rgb 0.1 0.1 0.2 amb 0.7 0.7 0.7 emis 0.6 0.4 0.2 spec 0.5 0.5 0.9 shi 128 trans 0.35
+OBJECT world
+kids 1
+OBJECT poly
+name "blah"
+texture "Lava.jpg"
+texrep 0.02 0.12
+numvert 4
+149.377562 -0.000000 -20.792479
+-154.622438 0.000000 18.207521
+-154.622438 -0.000000 -20.792479
+149.377562 0.000000 18.207521
+numsurf 2
+SURF 0x30
+mat 1
+refs 3
+0 471.6235 843.5910
+1 658.6314 819.5999
+2 658.6314 843.5910
+SURF 0x30
+mat 1
+refs 3
+1 658.6314 819.5999
+0 471.6235 843.5910
+3 471.6235 819.5999
+kids 0
+

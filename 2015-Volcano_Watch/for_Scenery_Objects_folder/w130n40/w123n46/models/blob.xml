@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<PropertyList>
+    <path>blob.ac</path>
+
+ <animation>
+  <type>textranslate</type>
+  <object-name>mesh</object-name>
+<property>/sim/time/elapsed-sec</property>
+  <bias>0.04</bias>
+  <factor>0.02</factor>
+  <step>.1</step>
+  <axis>
+   <x>1</x>
+   <y>0</y>
+  </axis>
+ </animation>
+
+</PropertyList>
