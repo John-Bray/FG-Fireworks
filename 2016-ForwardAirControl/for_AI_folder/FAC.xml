@@ -1,0 +1,407 @@
+<?xml version="1.0"?>
+<PropertyList>
+ <scenario>
+  <description>FAC</description>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Mortars.xml</model>
+ <longitude type="double">10.93653338</longitude>
+ <latitude type="double">63.45837656</latitude>
+ <altitude type="double">40</altitude>
+ <heading type="double">240</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <longitude type="double">10.93653338</longitude>
+ <latitude type="double">63.45837656</latitude>
+ <altitude type="double">40</altitude>
+ <heading type="double">240</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/25mmA2.xml</model>
+ <longitude type="double">10.82992593</longitude>
+ <latitude type="double">63.47453833</latitude>
+ <altitude type="double">510</altitude>
+ <heading type="double">150</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/25mmB2.xml</model>
+ <longitude type="double">10.82992593</longitude>
+ <latitude type="double">63.47453833</latitude>
+ <altitude type="double">510</altitude>
+ <heading type="double">150</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/13mmA2.xml</model>
+ <longitude type="double">10.82992593</longitude>
+ <latitude type="double">63.47453833</latitude>
+ <altitude type="double">510</altitude>
+ <heading type="double">150</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/13mmB2.xml</model>
+ <longitude type="double">10.82992593</longitude>
+ <latitude type="double">63.47453833</latitude>
+ <altitude type="double">510</altitude>
+ <heading type="double">150</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">63.75540748</latitude>
+ <longitude type="double">9.75688799</longitude>
+ <altitude type="double">330</altitude>
+ <heading type="double"> 0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">63.75540748</latitude>
+ <longitude type="double">9.75688799</longitude>
+ <altitude type="double">330</altitude>
+ <heading type="double"> 0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">63.75540748</latitude>
+ <longitude type="double">9.75688799</longitude>
+ <altitude type="double">335</altitude>
+ <heading type="double"> 0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/25mmA.xml</model>
+ <latitude type="double">63.752</latitude>
+ <longitude type="double">9.753</longitude>
+ <altitude type="double">330</altitude>
+ <heading type="double">270</heading>
+</entry> 
+<entry>
+ <type>static</type>
+ <model type="string">FAC/25mmB.xml</model>
+ <latitude type="double">63.754</latitude>
+ <longitude type="double">9.755</longitude>
+ <altitude type="double">330</altitude>
+ <heading type="double">270</heading>
+</entry> 
+<entry>
+ <type>static</type>
+ <model type="string">FAC/13mmA.xml</model>
+ <latitude type="double">63.758</latitude>
+ <longitude type="double">9.759</longitude>
+ <altitude type="double">330</altitude>
+ <heading type="double">270</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/13mmB.xml</model>
+ <latitude type="double">63.760</latitude>
+ <longitude type="double">9.781</longitude>
+ <altitude type="double">330</altitude>
+ <heading type="double">270</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Schermuleys.xml</model>
+ <latitude type="double">63.762</latitude>
+ <longitude type="double">9.783</longitude>
+ <altitude type="double">330</altitude>
+ <heading type="double">270</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">64.44668880</latitude>
+ <longitude type="double">11.31010487</longitude>
+ <altitude type="double">205</altitude>
+ <heading type="double">0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">64.44668880</latitude>
+ <longitude type="double">11.31010487</longitude>
+ <altitude type="double">205</altitude>
+ <heading type="double">0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">64.44668880</latitude>
+ <longitude type="double">11.31010487</longitude>
+ <altitude type="double">205</altitude>
+ <heading type="double">0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">65.45861654</latitude>
+ <longitude type="double">12.78916751</longitude>
+ <altitude type="double">130</altitude>
+ <heading type="double">0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">65.45861654</latitude>
+ <longitude type="double">12.78916751</longitude>
+ <altitude type="double">130</altitude>
+ <heading type="double">0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">65.45861654</latitude>
+ <longitude type="double">12.78916751</longitude>
+ <altitude type="double">130</altitude>
+ <heading type="double">0</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">66.09103605</latitude>
+ <longitude type="double">13.54357766</longitude>
+ <altitude type="double">320</altitude>
+ <heading type="double">180</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">66.09103605</latitude>
+ <longitude type="double">13.54357766</longitude>
+ <altitude type="double">325</altitude>
+ <heading type="double">180</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">66.09103605</latitude>
+ <longitude type="double">13.54357766</longitude>
+ <altitude type="double">330</altitude>
+ <heading type="double">180</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">66.91421743</latitude>
+ <longitude type="double">14.92761204</longitude>
+ <altitude type="double">3300</altitude>
+ <heading type="double">90</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">66.91421743</latitude>
+ <longitude type="double">14.92761204</longitude>
+ <altitude type="double">3300</altitude>
+ <heading type="double">90</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">66.91421743</latitude>
+ <longitude type="double">14.92761204</longitude>
+ <altitude type="double">3300</altitude>
+ <heading type="double">90</heading>
+</entry>
+ <entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">66.49659527</latitude>
+ <longitude type="double">14.95426806</longitude>
+ <altitude type="double">895</altitude>
+ <heading type="double">200</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">66.49659527</latitude>
+ <longitude type="double">14.95426806</longitude>
+ <altitude type="double">895</altitude>
+ <heading type="double">200</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">66.49659527</latitude>
+ <longitude type="double">14.95426806</longitude>
+ <altitude type="double">895</altitude>
+ <heading type="double">200</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">65.74570691</latitude>
+ <longitude type="double">14.16305528</longitude>
+ <altitude type="double">2820</altitude>
+ <heading type="double">100</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">65.74570691</latitude>
+ <longitude type="double">14.16305528</longitude>
+ <altitude type="double">2820</altitude>
+ <heading type="double">100</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">65.74570691</latitude>
+ <longitude type="double">14.16305528</longitude>
+ <altitude type="double">2820</altitude>
+ <heading type="double">100</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">64.70251705</latitude>
+ <longitude type="double">13.28070204</longitude>
+ <altitude type="double">1700</altitude>
+ <heading type="double">240</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">64.70251705</latitude>
+ <longitude type="double">13.28070204</longitude>
+ <altitude type="double">1700</altitude>
+ <heading type="double">100</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">64.70251705</latitude>
+ <longitude type="double">13.28070204</longitude>
+ <altitude type="double">1700</altitude>
+ <heading type="double">100</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <latitude type="double">63.5544044</latitude>
+ <longitude type="double">11.94939081</longitude>
+ <altitude type="double">1350</altitude>
+ <heading type="double">140</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst.xml</model>
+ <latitude type="double">63.5544044</latitude>
+ <longitude type="double">11.94939081</longitude>
+ <altitude type="double">1350</altitude>
+ <heading type="double">100</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <latitude type="double">63.5544044</latitude>
+ <longitude type="double">11.94939081</longitude>
+ <altitude type="double">1350</altitude>
+ <heading type="double">100</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/laserDesignation.xml</model>
+ <longitude type="double">11.1303658</longitude>
+ <latitude type="double">63.73532026</latitude>
+ <altitude type="double">262</altitude>
+ <heading type="double">000</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Burst2.xml</model>
+ <longitude type="double">11.1303658</longitude>
+ <latitude type="double">63.73532026</latitude>
+ <altitude type="double">262</altitude>
+ <heading type="double">030</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Strafe.xml</model>
+ <longitude type="double">11.1303658</longitude>
+ <latitude type="double">63.73532026</latitude>
+ <altitude type="double">262</altitude>
+ <heading type="double">060</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/25mmA2.xml</model>
+ <longitude type="double">11.1317125</longitude>
+ <latitude type="double">63.73569804</latitude>
+ <altitude type="double">262</altitude>
+ <heading type="double">090</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/25mmB2.xml</model>
+ <longitude type="double">11.1254566</longitude>
+ <latitude type="double">63.73503440</latitude>
+ <altitude type="double">187</altitude>
+ <heading type="double">120</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/13mmA2.xml</model>
+ <longitude type="double">11.1324415</longitude>
+ <latitude type="double">63.73509769</latitude>
+ <altitude type="double">187</altitude>
+ <heading type="double">150</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/13mmB2.xml</model>
+ <longitude type="double">11.1293229</longitude>
+ <latitude type="double">63.73515824</latitude>
+ <altitude type="double">259</altitude>
+ <heading type="double">180</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Schermuleys.xml</model>
+ <longitude type="double">11.1303962</longitude>
+ <latitude type="double">63.73574770</latitude>
+ <altitude type="double">262</altitude>
+ <heading type="double">210</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Mortars.xml</model>
+ <longitude type="double">11.1303962</longitude>
+ <latitude type="double">63.73574770</latitude>
+ <altitude type="double">210</altitude>
+ <heading type="double">240</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Mortars.xml</model>
+ <longitude type="double">11.1271961</longitude>
+ <latitude type="double">63.73402792</latitude>
+ <altitude type="double">210</altitude>
+ <heading type="double">270</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Mortars.xml</model>
+ <longitude type="double">11.1240181</longitude>
+ <latitude type="double">63.73569933</latitude>
+ <altitude type="double">210</altitude>
+ <heading type="double">300</heading>
+</entry>
+<entry>
+ <type>static</type>
+ <model type="string">FAC/Mortars.xml</model>
+ <longitude type="double">11.1272604</longitude>
+ <latitude type="double">63.73573755</latitude>
+ <altitude type="double">210</altitude>
+ <heading type="double">330</heading>
+</entry>
+		
+	</scenario>
+</PropertyList>
